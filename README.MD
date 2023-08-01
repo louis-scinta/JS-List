@@ -1,0 +1,1 @@
+This project is a simple but powerful list  designed with accessibility in mind and intended to exercise fundamental web development programming concepts using a combination of javascript, CSS, and HTML.
