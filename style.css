@@ -1,0 +1,4 @@
+/* Class used to mark li elements complete   */
+  .done {
+    text-decoration: line-through;
+  }
